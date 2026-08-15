@@ -1,5 +1,7 @@
 # PiEat-Me · Food Delivery on Pi Network
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![CI](https://github.com/EslaM-X/pi-eats-crypto-now-90/actions/workflows/ci.yml/badge.svg)](https://github.com/EslaM-X/pi-eats-crypto-now-90/actions)
+
 A food delivery marketplace on the Pi Network ecosystem: order from
 restaurants or home food providers and pay with Pi cryptocurrency.
 
